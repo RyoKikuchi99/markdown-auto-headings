@@ -5,11 +5,11 @@ This program adds specific prefix and number automatically to a markdown documen
 
 ## Usage
 ```python
-    generate_auto_headings(
-        markdown_text: str,
-        prefix: str,
-        delimiter: str,
-        heading_start_pos: int):
+generate_auto_headings(
+    markdown_text: str,
+    prefix: str,
+    delimiter: str,
+    heading_start_pos: int):
 ```
 
 The input text is defined as follows:

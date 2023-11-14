@@ -108,7 +108,7 @@ def write_markdown_file(file_path: str, text: str):
 
 
 if __name__ == '__main__':
-    # Pefix for heading e.g. "A-1-1", "ABCD-1-1"
+    # Prefix for heading e.g. "A-1-1", "ABCD-1-1"
     prefix = 'A'
     # Delimiter in text
     delimiter = '-'
